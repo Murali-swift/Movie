@@ -1,0 +1,4 @@
+{
+  "status": 500,
+  "message": "500 Internal Server Error: \"{\"path\":\"https://cms-c4sapdev.dev.bp-paas.otxlab.net/instances/folder/ccmcfg_configfolder\",\"title\":\"Internal Server Error\",\"status\":500,\"details\":\"could not extract ResultSet; SQL [n/a]; nested exception is org.hibernate.exception.SQLGrammarException: could not extract ResultSet\",\"incident\":\"09350747-604c-4059-bb91-1539e61f569a\"}\""
+}
